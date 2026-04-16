@@ -146,7 +146,7 @@ Plotly
 Kneed
 sklearn-genetic-opt
 Jupyter Notebook
-
+```
 ---
 
 ## 👤 Author
