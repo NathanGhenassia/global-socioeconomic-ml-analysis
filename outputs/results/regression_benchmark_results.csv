@@ -1,0 +1,8 @@
+Model,r-squared
+LinearRegression,0.8730089241072885
+DecisionTreeRegressor,0.8350638890541576
+RandomForestRegressor,0.8886864296503273
+Lasso,0.873253102666328
+Ridge,0.9257459538695135
+KNeighborsRegressor,0.9351704169979485
+GradientBoostingRegressor,0.9202170464700277

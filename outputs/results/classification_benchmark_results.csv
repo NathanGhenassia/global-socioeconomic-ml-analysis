@@ -1,0 +1,6 @@
+Model,Accuracy
+KNeighborsClassifier,0.9607843137254902
+DecisionTreeClassifier,0.9607843137254902
+RandomForestClassifier,0.9803921568627451
+AdaBoostClassifier,0.9411764705882353
+GradientBoostingClassifier,0.9607843137254902

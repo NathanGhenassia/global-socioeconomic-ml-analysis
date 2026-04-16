@@ -1,0 +1,1 @@
+WilcoxonResult(statistic=np.float64(0.0), pvalue=np.float64(0.0625))
