@@ -87,7 +87,7 @@ The workflow integrates:
 ---
 
 ## 🗂️ Repository Structure
-
+```text
 global-socioeconomic-ml-analysis/
 ├── data/
 │   ├── raw/
@@ -101,7 +101,7 @@ global-socioeconomic-ml-analysis/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
-
+```
 ---
 
 ## 📦 Outputs
@@ -118,12 +118,14 @@ The notebook automatically generates and saves:
 ## ⚙️ How to Run
 
 ### 1. Clone the repository
+```bash
 git clone https://github.com/NathanGhenassia/global-socioeconomic-ml-analysis.git
 cd global-socioeconomic-ml-analysis
-
+```
 ### 2. Install dependencies
+```bash
 pip install -r requirements.txt
-
+```
 ### 3. Run the notebook
 Open:
 notebooks/socioeconomic_analysis.ipynb
@@ -132,7 +134,7 @@ Then run all cells.
 ---
 
 ## 🛠️ Tech Stack
-
+```markdown
 Python
 Pandas
 NumPy
